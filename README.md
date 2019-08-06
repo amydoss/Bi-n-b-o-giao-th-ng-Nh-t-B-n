@@ -1,4 +1,4 @@
-#Biển báo giao thông Nhật Bản
+#Biển báo giao thông việt nam
 
 Ứng dụng này tôn trọng và bảo vệ quyền riêng tư của tất cả người dùng sử dụng dịch vụ. Để cung cấp cho bạn dịch vụ chính xác và được cá nhân hóa hơn, ứng dụng này sẽ sử dụng thông tin cá nhân của bạn theo Chính sách bảo mật này. Nhưng ứng dụng này sẽ được đối xử với mức độ siêng năng và cẩn trọng cao. Trừ khi có quy định khác trong Chính sách bảo mật này, ứng dụng này sẽ không tiết lộ hoặc cung cấp thông tin đó cho bên thứ ba mà không có sự cho phép trước của bạn. Ứng dụng này sẽ cập nhật chính sách bảo mật này theo thời gian. Khi đồng ý với thỏa thuận dịch vụ ứng dụng, bạn được coi là đã đồng ý với toàn bộ nội dung của Chính sách bảo mật này. Chính sách bảo mật này là một phần không thể thiếu của Thỏa thuận dịch vụ ứng dụng này.
 
